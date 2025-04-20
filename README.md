@@ -11,14 +11,10 @@ A simple, responsive To-Do List web application built using **HTML**, **CSS**, a
 - 📱 Responsive design for mobile and desktop
 
 ## 🚀 Live Demo
-
-[Click here to view the live demo](#)  
-*(Add your GitHub Pages or Netlify/Vercel link here)*
+(https://ketan-1709.github.io/Todo-project)
 
 ## 📸 Screenshots
-
-![To-Do App Screenshot](screenshots/todo-app.png)  
-*(Add your actual screenshot in a `screenshots/` folder)*
+(screenshots/todo-app.png) 
 
 ## 🛠️ Technologies Used
 
